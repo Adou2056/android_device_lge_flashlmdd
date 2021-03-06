@@ -15,8 +15,8 @@
 #
 
 PRODUCT_MAKEFILES += \
-    $(LOCAL_DIR)/lineage_flashlmdd.mk
+    $(LOCAL_DIR)/exthm_flashlmdd.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_flashlmdd-userdebug \
-    lineage_flashlmdd-eng
+    exthm_flashlmdd-userdebug \
+    exthm_flashlmdd-eng
